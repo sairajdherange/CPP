@@ -5,15 +5,15 @@
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
 ../src/Assignment3_2.cpp \
-../src/Assignment3_2_func.cpp 
+../src/matrix.cpp 
 
 OBJS += \
 ./src/Assignment3_2.o \
-./src/Assignment3_2_func.o 
+./src/matrix.o 
 
 CPP_DEPS += \
 ./src/Assignment3_2.d \
-./src/Assignment3_2_func.d 
+./src/matrix.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
