@@ -2,7 +2,7 @@
  * employee.cpp
  *
  *  Created on: 08-Mar-2020
- *      Author: Sairaj Dherange
+ *      Author: sunbeam
  */
 
 #include "employee.h"

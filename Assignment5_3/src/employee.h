@@ -2,7 +2,7 @@
  * employee.h
  *
  *  Created on: 08-Mar-2020
- *      Author: Sairaj Dherange
+ *      Author: sunbeam
  */
 
 #ifndef EMPLOYEE_H_

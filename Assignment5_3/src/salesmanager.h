@@ -2,7 +2,7 @@
  * salesmanager.h
  *
  *  Created on: 08-Mar-2020
- *      Author: Sairaj Dherange
+ *      Author: sunbeam
  */
 
 #ifndef SALESMANAGER_H_

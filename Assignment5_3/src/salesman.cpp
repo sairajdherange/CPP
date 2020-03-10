@@ -2,7 +2,7 @@
  * salesman.cpp
  *
  *  Created on: 08-Mar-2020
- *      Author: Sairaj Dherange
+ *      Author: sunbeam
  */
 
 #include "salesman.h"
@@ -32,6 +32,14 @@ void salesman::display(){
 
 void salesman::accept(){
 	employee::accept();
+	cout<<"Enter commission : ";
+	cin>>this->comm;
+}
+
+void salesman::display_salesman(){
+	cout<<"Commission : "<<this->comm<<endl;
+}
+void salesman::accept_salesman(){
 	cout<<"Enter commission : ";
 	cin>>this->comm;
 }

@@ -2,7 +2,7 @@
  * manager.h
  *
  *  Created on: 08-Mar-2020
- *      Author: Sairaj Dherange
+ *      Author: sunbeam
  */
 
 #ifndef MANAGER_H_
@@ -11,7 +11,7 @@
 
 namespace std {
 
-class manager : public employee {
+class manager : virtual public employee {
 private:
 	float bonus;
 public:
@@ -21,9 +21,11 @@ public:
 	void set_bonus(float);
 	void accept();
 	void display();
+	virtual ~manager();
+protected:
 	void display_manager();
 	void accept_manager();
-	virtual ~manager();
+
 };
 
 } /* namespace std */

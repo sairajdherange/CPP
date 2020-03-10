@@ -2,7 +2,7 @@
  * salesman.h
  *
  *  Created on: 08-Mar-2020
- *      Author: Sairaj Dherange
+ *      Author: sunbeam
  */
 
 #ifndef SALESMAN_H_
@@ -11,7 +11,7 @@
 
 namespace std {
 
-class salesman : public employee {
+class salesman : virtual public employee {
 private:
 	float comm;
 public:
@@ -22,6 +22,9 @@ public:
 	void display();
 	void accept();
 	virtual ~salesman();
+protected:
+	void display_salesman();
+	void accept_salesman();
 };
 
 } /* namespace std */

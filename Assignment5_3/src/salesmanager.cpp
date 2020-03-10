@@ -2,7 +2,7 @@
  * salesmanager.cpp
  *
  *  Created on: 08-Mar-2020
- *      Author: Sairaj Dherange
+ *      Author: sunbeam
  */
 
 #include "salesmanager.h"
@@ -21,8 +21,9 @@ sales_manager::sales_manager(int id,float sal ,float bonus,float comm)
 }
 
 void sales_manager::display(){
-	manager::display();
-	cout<<"Commission : "<<salesman::get_comm()<<endl;
+	employee::display();
+	manager::display_manager();
+	salesman::display_salesman();
 }
 
 void sales_manager::accept(){

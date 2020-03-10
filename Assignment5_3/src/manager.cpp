@@ -2,7 +2,7 @@
  * manager.cpp
  *
  *  Created on: 08-Mar-2020
- *      Author: Sairaj Dherange
+ *      Author: sunbeam
  */
 
 #include "manager.h"
@@ -37,11 +37,12 @@ void manager::display(){
 }
 
 void manager::display_manager(){
-
+	cout<<"Bonus : "<<this->bonus<<endl;
 }
 
 void manager::accept_manager(){
-
+	cout<<"Enter bonus : ";
+	cin>>this->bonus;
 }
 
 manager::~manager() {
