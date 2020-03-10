@@ -2,7 +2,7 @@
  * matrix.h
  *
  *  Created on: 11-Mar-2020
- *      Author: sunbeam
+ *      Author: Sairaj Dherange
  */
 
 #ifndef MATRIX_H_

@@ -2,7 +2,7 @@
  * matrix.cpp
  *
  *  Created on: 11-Mar-2020
- *      Author: sunbeam
+ *      Author: Sairaj Dherange
  */
 
 #include "matrix.h"
