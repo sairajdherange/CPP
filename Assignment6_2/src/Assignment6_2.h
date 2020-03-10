@@ -2,7 +2,7 @@
  * Assignment6_2.h
  *
  *  Created on: 10-Mar-2020
- *      Author: sunbeam
+ *      Author: Sairaj Dherange
  */
 
 #ifndef ASSIGNMENT6_2_H_

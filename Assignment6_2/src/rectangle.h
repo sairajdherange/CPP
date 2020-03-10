@@ -2,7 +2,7 @@
  * rectangle.h
  *
  *  Created on: 10-Mar-2020
- *      Author: sunbeam
+ *      Author: Sairaj Dherange
  */
 
 #ifndef RECTANGLE_H_

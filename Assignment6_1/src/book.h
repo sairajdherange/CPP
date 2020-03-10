@@ -2,7 +2,7 @@
  * book.h
  *
  *  Created on: 09-Mar-2020
- *      Author: sunbeam
+ *      Author: Sairaj Dherange
  */
 
 #ifndef BOOK_H_

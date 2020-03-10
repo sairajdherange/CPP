@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Assignment6_2.cpp
-// Author      : Sairaj
+// Author      : Sairaj Dherange
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
